@@ -28,6 +28,11 @@
       "name": "a",
       "email": "b",
       "id": 1
+    },
+    {
+      "name": "Eric",
+      "email": "e@mail.com",
+      "id": 2
     }
   ],
   "robots": [
